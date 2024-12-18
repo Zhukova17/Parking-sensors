@@ -11,7 +11,6 @@
         <Button Content="Сохранить сканирование" HorizontalAlignment="Left" Margin="458,503,0,0" VerticalAlignment="Top" Height="42" Width="261" Background="#FF9AC44C" Foreground="#FFF8FBF4" FontSize="20" FontFamily="Agency FB" BorderBrush="#FFAC9139"/>
         <Image Height="100" Width="100"/>
         <Image Margin="320,139,320,440" Source="/0,1 - 0,3 metra.png" Stretch="Fill"/>
-        <Image Margin="160,164,160,181" Source="/image 4.png" Stretch="Fill"/>
         <Image Margin="280,119,280,460" Source="/0,3 - 0,5 metra.png" Stretch="Fill"/>
         <Image Margin="240,99,240,480" Source="/0,5 - 1 metra.png" Stretch="Fill"/>
         <Image Margin="320,424,320,155" Source="/0,1 - 0,3 metra.png" Stretch="Fill"/>
@@ -23,6 +22,18 @@
         <Image Margin="680,184,114,160" Source="/0,3 - 0,5.png" Stretch="Fill"/>
         <Image Margin="660,222,135,202" Source="/0,1 - 0,3.png" Stretch="Fill"/>
         <Image Margin="700,142,95,122" Source="/0,5 - 0,7.png" Stretch="Fill"/>
+        <Image Margin="160,163,160,182" Source="/AUTO .png" Stretch="Fill"/>
+        <Image Margin="0,0,0,520" Source="/Rectangle 1.png" Stretch="Fill"/>
+        <Image Margin="80,0,650,520" Source="/Logo.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.233"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.163"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
 
     </Grid>
 </Window>

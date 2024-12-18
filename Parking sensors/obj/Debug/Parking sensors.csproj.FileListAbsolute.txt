@@ -1,0 +1,31 @@
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.csproj.AssemblyReference.cache
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Entrance.g.cs
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\MainWindow.g.cs
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Registration.g.cs
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\App.g.cs
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors_MarkupCompile.cache
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors_MarkupCompile.lref
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Entrance.baml
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\MainWindow.baml
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Registration.baml
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.g.resources
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.pdb
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\bin\Debug\Parking sensors.exe.config
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\bin\Debug\Parking sensors.exe
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\bin\Debug\Parking sensors.pdb
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking_sensors.Properties.Resources.resources
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.csproj.GenerateResource.cache
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.csproj.CoreCompileInputs.cache
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.exe
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Registrati.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.csproj.AssemblyReference.cache
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\About the program.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Entrance.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\MainWindow.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Registrati.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Registration.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\App.g.cs
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors_MarkupCompile.cache
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors_MarkupCompile.lref
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.exe
+\\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.pdb

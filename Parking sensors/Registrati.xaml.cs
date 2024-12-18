@@ -15,26 +15,16 @@ using System.Windows.Shapes;
 namespace Parking_sensors
 {
     /// <summary>
-    /// Логика взаимодействия для Entrance.xaml
+    /// Логика взаимодействия для Registrati.xaml
     /// </summary>
-    public partial class Entrance : Window
+    public partial class Registrati : Window
     {
-        public Entrance()
+        public Registrati()
         {
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
         }
