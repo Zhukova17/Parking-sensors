@@ -29,3 +29,4 @@ D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sen
 \\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors_MarkupCompile.lref
 \\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.exe
 \\1213-6-PC\$Documents$\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\Parking sensors.pdb
+D:\Users\1213-6\Documents\3-ИСП\Дисциплина\Жукова\Parking sensors\obj\Debug\About the program.g.cs

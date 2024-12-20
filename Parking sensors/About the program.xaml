@@ -14,6 +14,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="81,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="500" FontSize="20"><Run Text="Выполнила:"/><Run Language="ru-ru" Text=" Жукова Анастасия Александровна"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="81,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="677" FontSize="20"><Run Text="Специальность:"/><Run Language="ru-ru" Text=" Информационные системы и программирование"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="81,173,0,0" TextWrapping="Wrap" Text="E-mail:" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="159,173,0,0" TextWrapping="Wrap" Text="olgaovsyanikova09023@gmail.com" VerticalAlignment="Top" FontSize="20" Width="321"/>
 
     </Grid>
 </Window>

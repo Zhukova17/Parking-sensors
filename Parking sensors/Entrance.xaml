@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="Entrance" Height="600" Width="800">
     <Grid Background="#FFF8FBF4">
-        <Rectangle HorizontalAlignment="Center" Height="280" VerticalAlignment="Top" Width="564" Fill="#FF9AC44C" Margin="0,164,0,0"/>
-        <Button Content="Войти" HorizontalAlignment="Center" Height="40" Margin="0,394,0,0" VerticalAlignment="Top" Width="200" Click="Button_Click" FontSize="20" Background="#FFF8FBF4" Foreground="#FFAC9139" BorderBrush="#FFAC9139"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,244,0,0" TextWrapping="Wrap" Text="Введите E-mail" VerticalAlignment="Top" Width="480" Height="40" TextChanged="TextBox_TextChanged" BorderBrush="#FFAC9139" Foreground="#FFAC9139" FontSize="20"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,304,0,0" TextWrapping="Wrap" Text="Введите пароль" VerticalAlignment="Top" Width="480" Height="40" TextChanged="TextBox_TextChanged" BorderBrush="#FFAC9139" Foreground="#FFAC9139" FontSize="20"/>
-        <Button Content="Вход" HorizontalAlignment="Left" Margin="160,182,0,0" VerticalAlignment="Top" Width="80" Click="Button_Click_1" FontSize="18" Height="34" BorderBrush="#FFF8FBF4" Background="#FFAC9139" Foreground="#FFF8FBF4"/>
-        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="255,182,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click_1" FontSize="18" Height="34" Foreground="#FFAC9139" BorderBrush="#FFAC9139" Background="#FFF8FBF4"/>
-        <Image Margin="118,214,118,366" Source="/Line 1.png" Stretch="Fill"/>
+        <Rectangle HorizontalAlignment="Center" Height="280" VerticalAlignment="Top" Width="564" Fill="#FF9AC44C" Margin="0,145,0,0"/>
+        <Button Content="Войти" HorizontalAlignment="Center" Height="40" Margin="0,375,0,0" VerticalAlignment="Top" Width="200" Click="Button_Click" FontSize="20" Background="#FFF8FBF4" Foreground="#FFAC9139" BorderBrush="#FFAC9139"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,225,0,0" TextWrapping="Wrap" Text="Введите E-mail" VerticalAlignment="Top" Width="480" Height="40" TextChanged="TextBox_TextChanged" BorderBrush="#FFAC9139" Foreground="#FFAC9139" FontSize="20"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,285,0,0" TextWrapping="Wrap" Text="Введите пароль" VerticalAlignment="Top" Width="480" Height="40" TextChanged="TextBox_TextChanged" BorderBrush="#FFAC9139" Foreground="#FFAC9139" FontSize="20"/>
+        <Button Content="Вход" HorizontalAlignment="Left" Margin="160,163,0,0" VerticalAlignment="Top" Width="80" Click="Button_Click_1" FontSize="18" Height="34" BorderBrush="#FFF8FBF4" Background="#FFAC9139" Foreground="#FFF8FBF4"/>
+        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="255,163,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click_1" FontSize="18" Height="34" Foreground="#FFAC9139" BorderBrush="#FFAC9139" Background="#FFF8FBF4"/>
+        <Image Margin="118,195,118,385" Source="/Line 1.png" Stretch="Fill"/>
         <Image Margin="0,0,0,520" Source="/Rectangle 1.png" Stretch="Fill"/>
         <Image Margin="80,0,650,520" Source="/Logo.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>

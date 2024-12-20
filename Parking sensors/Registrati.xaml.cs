@@ -28,5 +28,11 @@ namespace Parking_sensors
         {
 
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Entrance form2 = new Entrance();
+            form2.ShowDialog();
+        }
     }
 }

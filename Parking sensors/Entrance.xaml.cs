@@ -36,6 +36,12 @@ namespace Parking_sensors
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            Registrati form2 = new Registrati();
+            form2.ShowDialog();
+        }
+
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
 
         }
     }
